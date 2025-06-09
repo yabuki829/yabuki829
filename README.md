@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- HEADER ANIMATION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5,10&height=150&section=header&animation=twinkling" 
+    width="100%" />
+</div>
 
-<!--
-**yabuki829/yabuki829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- TYPING TEXT -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6EF7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+User+👋;Go+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast;Always+Learning+New+Things" />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=go" width="80" /><br/>
+      <strong>Go Developer</strong>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=swift" width="80" /><br/>
+      <strong>Swift Developer</strong>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="80" /><br/>
+      <strong>Next.js Developer</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yabuki829&theme=gruvbox&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yabuki829&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabuki829&layout=compact&theme=gruvbox" />
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+---
+
+<!-- FOOTER ANIMATION -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5,10&height=120&section=footer&animation=twinkling"
+    width="100%"
+  />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  
+  **⭐ From [user](https://github.com/yabuki829) with ❤️**
+  
+  *"Go makes everything beautiful! 🦋"*
+</div>
