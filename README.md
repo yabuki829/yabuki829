@@ -1,3 +1,10 @@
+<!-- Snack section -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
+
 <!-- HEADER ANIMATION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5,10&height=150&section=header&animation=twinkling" 
@@ -15,14 +22,6 @@
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=go" width="80" /><br/>
-      <strong>Go Developer</strong>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=swift" width="80" /><br/>
-      <strong>Swift Developer</strong>
-    </td>
     <td align="center" width="200">
       <img src="https://skillicons.dev/icons?i=nextjs" width="80" /><br/>
       <strong>Next.js Developer</strong>
